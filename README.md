@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bali111x
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning the Python :) I started it in 2025 February
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
